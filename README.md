@@ -120,7 +120,3 @@ source src/run_report.sh
 
 - [ ] Automated bank statement scraping and ledger entry creation
 - [ ] Savings trend analysis for recent months
-
-## License
-
-[Choose and specify license]
