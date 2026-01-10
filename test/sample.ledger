@@ -1,0 +1,801 @@
+; Sample Ledger File for Financial Report Application
+
+2024/01/01 Opening Balance
+    Assets:Checking                        $5,000.00
+    Assets:Savings                        $15,000.00
+    Assets:Investment                     $25,000.00
+    Liabilities:Credit Card               $-1,200.00
+    Equity:Opening Balances
+
+2024/01/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/01/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/01/03 Whole Foods
+    Expenses:Food:Groceries                  $142.35
+    Liabilities:Credit Card
+
+2024/01/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99  
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/01/07 Chipotle
+    Expenses:Food:Dining                      $15.67
+    Liabilities:Credit Card
+
+2024/01/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/01/10 Whole Foods
+    Expenses:Food:Groceries                  $156.89
+    Liabilities:Credit Card
+
+2024/01/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/01/14 Local Bistro
+    Expenses:Food:Dining                      $68.45
+    Liabilities:Credit Card
+
+2024/01/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/01/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/01/15 Amazon
+    Expenses:Shopping:Online                  $89.99
+    Liabilities:Credit Card
+
+2024/01/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/01/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/01/17 Whole Foods
+    Expenses:Food:Groceries                  $128.76
+    Liabilities:Credit Card
+
+2024/01/20 Electric Company
+    Expenses:Utilities:Electric               $85.00
+    Assets:Checking
+
+2024/01/21 Starbucks
+    Expenses:Food:Dining                       $8.25
+    Liabilities:Credit Card
+
+2024/01/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/01/24 Whole Foods
+    Expenses:Food:Groceries                  $145.23
+    Liabilities:Credit Card
+
+2024/01/28 Pizza Place
+    Expenses:Food:Dining                      $32.50
+    Liabilities:Credit Card
+
+2024/01/30 Local Food Bank
+    Expenses:Donations:Charity               $100.00
+    Assets:Checking
+
+2024/02/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/02/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/02/01 Credit Card Payment
+    Liabilities:Credit Card                 $-800.00
+    Assets:Checking
+
+2024/02/02 Whole Foods
+    Expenses:Food:Groceries                  $138.45
+    Liabilities:Credit Card
+
+2024/02/04 Sushi Restaurant
+    Expenses:Food:Dining                      $85.30
+    Liabilities:Credit Card
+
+2024/02/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/02/09 Whole Foods
+    Expenses:Food:Groceries                  $152.90
+    Liabilities:Credit Card
+
+2024/02/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/02/10 Target
+    Expenses:Shopping:Retail                 $125.43
+    Liabilities:Credit Card
+
+2024/02/11 Cafe
+    Expenses:Food:Dining                      $12.75
+    Liabilities:Credit Card
+
+2024/02/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/02/14 Movie Theater
+    Expenses:Entertainment:Movies             $35.00
+    Liabilities:Credit Card
+
+2024/02/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/02/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/02/15 Doctor Visit
+    Expenses:Health:Medical                   $45.00
+    Assets:Checking
+
+2024/02/16 Whole Foods
+    Expenses:Food:Groceries                  $141.67
+    Liabilities:Credit Card
+
+2024/02/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/02/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/02/18 Thai Restaurant
+    Expenses:Food:Dining                      $45.60
+    Liabilities:Credit Card
+
+2024/02/20 Electric Company
+    Expenses:Utilities:Electric               $92.00
+    Assets:Checking
+
+2024/02/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/02/23 Whole Foods
+    Expenses:Food:Groceries                  $149.88
+    Liabilities:Credit Card
+
+2024/02/25 Burger Joint
+    Expenses:Food:Dining                      $28.90
+    Liabilities:Credit Card
+
+2024/03/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/03/01 Whole Foods
+    Expenses:Food:Groceries                  $155.32
+    Liabilities:Credit Card
+
+2024/03/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/03/01 Credit Card Payment
+    Liabilities:Credit Card                 $-850.00
+    Assets:Checking
+
+2024/03/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/03/05 Amazon
+    Expenses:Shopping:Online                 $156.78
+    Liabilities:Credit Card
+
+2024/03/08 Whole Foods
+    Expenses:Food:Groceries                  $143.21
+    Liabilities:Credit Card
+
+2024/03/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/03/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/03/12 Photography Equipment
+    Expenses:Hobbies:Photography             $450.00
+    Liabilities:Credit Card
+
+2024/03/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/03/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/03/15 Whole Foods
+    Expenses:Food:Groceries                  $158.90
+    Liabilities:Credit Card
+
+2024/03/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/03/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/03/20 Electric Company
+    Expenses:Utilities:Electric               $78.00
+    Assets:Checking
+
+2024/03/20 Airline Tickets
+    Expenses:Travel:Airfare                  $650.00
+    Liabilities:Credit Card
+
+2024/03/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/03/22 Whole Foods
+    Expenses:Food:Groceries                  $147.65
+    Liabilities:Credit Card
+
+2024/03/25 Hotel Stay
+    Expenses:Travel:Lodging                  $420.00
+    Liabilities:Credit Card
+
+2024/03/28 Bank Fee
+    Expenses:Fees:Banking                     $12.00
+    Assets:Checking
+
+2024/03/29 Whole Foods
+    Expenses:Food:Groceries                  $139.43
+    Liabilities:Credit Card
+
+2024/04/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/04/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/04/01 Credit Card Payment
+    Liabilities:Credit Card                 $-900.00
+    Assets:Checking
+
+2024/04/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/04/05 Whole Foods
+    Expenses:Food:Groceries                  $151.28
+    Liabilities:Credit Card
+
+2024/04/05 Concert Tickets
+    Expenses:Entertainment:Events            $180.00
+    Liabilities:Credit Card
+
+2024/04/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/04/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/04/12 Whole Foods
+    Expenses:Food:Groceries                  $144.76
+    Liabilities:Credit Card
+
+2024/04/12 Best Buy
+    Expenses:Shopping:Electronics            $299.99
+    Liabilities:Credit Card
+
+2024/04/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/04/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/04/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/04/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/04/19 Whole Foods
+    Expenses:Food:Groceries                  $148.95
+    Liabilities:Credit Card
+
+2024/04/20 Electric Company
+    Expenses:Utilities:Electric               $70.00
+    Assets:Checking
+
+2024/04/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/04/26 Whole Foods
+    Expenses:Food:Groceries                  $142.30
+    Liabilities:Credit Card
+
+2024/05/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/05/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/05/01 Credit Card Payment
+    Liabilities:Credit Card                 $-750.00
+    Assets:Checking
+
+2024/05/03 Whole Foods
+    Expenses:Food:Groceries                  $156.42
+    Liabilities:Credit Card
+
+2024/05/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/05/08 Amazon
+    Expenses:Shopping:Online                  $67.43
+    Liabilities:Credit Card
+
+2024/05/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/05/10 Whole Foods
+    Expenses:Food:Groceries                  $149.87
+    Liabilities:Credit Card
+
+2024/05/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/05/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/05/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/05/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/05/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/05/17 Whole Foods
+    Expenses:Food:Groceries                  $145.63
+    Liabilities:Credit Card
+
+2024/05/18 Art Supplies
+    Expenses:Hobbies:Art                      $85.40
+    Liabilities:Credit Card
+
+2024/05/20 Electric Company
+    Expenses:Utilities:Electric               $65.00
+    Assets:Checking
+
+2024/05/20 Dentist
+    Expenses:Health:Dental                   $150.00
+    Assets:Checking
+
+2024/05/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/05/24 Whole Foods
+    Expenses:Food:Groceries                  $153.19
+    Liabilities:Credit Card
+
+2024/06/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/06/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/06/01 Credit Card Payment
+    Liabilities:Credit Card                 $-800.00
+    Assets:Checking
+
+2024/06/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/06/08 Baseball Game
+    Expenses:Entertainment:Events             $95.00
+    Liabilities:Credit Card
+
+2024/06/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/06/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/06/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/06/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/06/15 Animal Shelter
+    Expenses:Donations:Charity               $150.00
+    Assets:Checking
+
+2024/06/15 ATM Fee
+    Expenses:Fees:Atm                          $3.50
+    Assets:Checking
+
+2024/06/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/06/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/06/20 Electric Company
+    Expenses:Utilities:Electric               $95.00
+    Assets:Checking
+
+2024/06/20 Target
+    Expenses:Shopping:Retail                  $98.76
+    Liabilities:Credit Card
+
+2024/06/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/07/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/07/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/07/01 Credit Card Payment
+    Liabilities:Credit Card                 $-950.00
+    Assets:Checking
+
+2024/07/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/07/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/07/10 Airline Tickets
+    Expenses:Travel:Airfare                  $780.00
+    Liabilities:Credit Card
+
+2024/07/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/07/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/07/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/07/15 Amazon
+    Expenses:Shopping:Online                 $134.56
+    Liabilities:Credit Card
+
+2024/07/15 Hotel Stay
+    Expenses:Travel:Lodging                  $560.00
+    Liabilities:Credit Card
+
+2024/07/16 Rental Car
+    Expenses:Travel:Transportation           $210.00
+    Liabilities:Credit Card
+
+2024/07/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/07/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/07/20 Electric Company
+    Expenses:Utilities:Electric              $110.00
+    Assets:Checking
+
+2024/07/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/08/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/08/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/08/01 Credit Card Payment
+    Liabilities:Credit Card                 $-850.00
+    Assets:Checking
+
+2024/08/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/08/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/08/10 Pharmacy
+    Expenses:Health:Pharmacy                  $35.67
+    Liabilities:Credit Card
+
+2024/08/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/08/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/08/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/08/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/08/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/08/20 Electric Company
+    Expenses:Utilities:Electric              $115.00
+    Assets:Checking
+
+2024/08/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/08/22 Clothing Store
+    Expenses:Shopping:Clothing               $245.89
+    Liabilities:Credit Card
+
+2024/08/25 Book Store
+    Expenses:Hobbies:Books                    $67.89
+    Liabilities:Credit Card
+
+2024/09/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/09/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/09/01 Credit Card Payment
+    Liabilities:Credit Card                 $-700.00
+    Assets:Checking
+
+2024/09/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/09/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/09/10 Late Fee
+    Expenses:Fees:Late                        $25.00
+    Liabilities:Credit Card
+
+2024/09/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/09/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/09/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/09/15 Doctor Visit
+    Expenses:Health:Medical                   $45.00
+    Assets:Checking
+
+2024/09/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/09/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/09/20 Electric Company
+    Expenses:Utilities:Electric               $88.00
+    Assets:Checking
+
+2024/09/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/09/22 Museum Membership
+    Expenses:Entertainment:Membership        $125.00
+    Liabilities:Credit Card
+
+2024/10/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/10/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/10/01 Credit Card Payment
+    Liabilities:Credit Card                 $-800.00
+    Assets:Checking
+
+2024/10/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/10/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/10/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/10/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/10/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/10/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/10/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/10/20 Electric Company
+    Expenses:Utilities:Electric               $75.00
+    Assets:Checking
+
+2024/10/20 Environmental Nonprofit
+    Expenses:Donations:Charity               $200.00
+    Assets:Checking
+
+2024/10/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card
+
+2024/11/01 Landlord | Monthly Rent
+    Expenses:Rent                          $1,800.00
+    Assets:Checking
+
+2024/11/01 Health Insurance Co
+    Expenses:Insurance:Health                $350.00
+    Assets:Checking
+
+2024/11/01 Credit Card Payment
+    Liabilities:Credit Card                 $-750.00
+    Assets:Checking
+
+2024/11/05 Netflix
+    Expenses:Entertainment:Subscriptions      $15.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/11/10 Spotify
+    Expenses:Entertainment:Subscriptions      $10.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/11/12 Adobe Creative Cloud
+    Expenses:Hobbies:Software                 $54.99
+    Liabilities:Credit Card
+    ; :subscription:
+
+2024/11/15 Employer | Salary
+    Income:Salary                         $-6,500.00
+    Assets:Checking
+
+2024/11/15 Tax Withholding
+    Assets:Checking                       $-1,300.00
+    Expenses:Taxes
+
+2024/11/16 Transfer to Savings
+    Assets:Savings                           $500.00
+    Assets:Checking
+
+2024/11/16 Investment Contribution
+    Assets:Investment                        $300.00
+    Assets:Checking
+
+2024/11/20 Electric Company
+    Expenses:Utilities:Electric               $82.00
+    Assets:Checking
+
+2024/11/22 Internet Provider
+    Expenses:Utilities:Internet               $79.99
+    Liabilities:Credit Card

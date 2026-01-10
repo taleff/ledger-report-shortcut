@@ -1,0 +1,13 @@
+# Financial Report Generator Dependencies
+
+# GUI Framework
+customtkinter>=5.2.0,<6.0.0
+
+# Numerical Computing
+numpy>=1.24.0,<2.0.0
+
+# Data Visualization
+matplotlib>=3.7.0,<4.0.0
+
+# Image Processing (required by customtkinter)
+Pillow>=10.0.0,<11.0.0
