@@ -2,7 +2,7 @@
 
 A visual dashboard for financial data stored using [ledger-cli](https://www.ledger-cli.org). This macOS application uses the Shortcuts app to quickly display your financial summary in a window.
 
-!(assets/example_dashboard.png)
+![Example dashboard](/assets/example_dashboard.png?raw=true)
 
 ## Dependencies
 
